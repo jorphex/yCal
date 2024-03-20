@@ -7,4 +7,9 @@ DTSTART;VALUE=DATE:20240322
 DESCRIPTION:this IS a test EVENT! this should show up in the cal. lesssgoo
  oooo
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:20 mar eventEEEEEuUUU!!
+DTSTART;VALUE=DATE:20240321
+DESCRIPTION:testes eventes!!!!!!!!!!!! yay pls work
+END:VEVENT
 END:VCALENDAR
