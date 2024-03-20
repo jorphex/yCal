@@ -11,4 +11,9 @@ SUMMARY:Test event deux
 DTSTART;VALUE=DATE:20240325
 DESCRIPTION:Second event description!
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Test event tresssss!
+DTSTART;VALUE=DATE:20240328
+DESCRIPTION:Third event description to help ChatGPT with the .ics file
+END:VEVENT
 END:VCALENDAR
